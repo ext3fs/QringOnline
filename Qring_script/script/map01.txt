@@ -1,9 +1,0 @@
-Index	Name	파일명	BGM 1	BGM 2	BGM 3	스폰데이터파일명
-1	앨리스 마을	0001.map	Alice Ville.mp3	Alice Ville.mp3	Alice Ville.mp3	MobRegen0001.TT
-2	스테이지1 필드1	0002.map	Alice Field_01.mp3	Alice Field_01.mp3	Alice Field_01.mp3	MobRegen0002.TT
-3	스테이지1 필드2	0003.map	Alice Field_01.mp3	Alice Field_01.mp3	Alice Field_01.mp3	MobRegen0003.TT
-4	스테이지1 필드3	0004.map	Alice Field_01.mp3	Alice Field_01.mp3	Alice Field_01.mp3	MobRegen0004.TT
-5	스테이지1 던전1	0005.map	Alice dungeon_01.mp3	Alice dungeon_01.mp3	Alice dungeon_01.mp3	MobRegen0005.TT
-6	로제 마을	0006.map	Rosee Ville.mp3	Rosee Ville.mp3	Rosee Ville.mp3	MobRegen0006.TT
-7	스테이지2 필드1	0007.map	Rosee Field_01.mp3	Rosee Field_01.mp3	Rosee Field_01.mp3	MobRegen0007.TT
-8	스테이지2 필드2	0008.map	Rosee Field_01.mp3	Rosee Field_01.mp3	Rosee Field_01.mp3	MobRegen0008.TT
